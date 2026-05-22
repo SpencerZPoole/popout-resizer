@@ -49,7 +49,7 @@ This fork is intended to keep the original module behavior while making sidebar 
 - Fixed saved-size setting updates so stored dimensions remain an object.
 - Published release assets for direct installation from this public fork.
 
-Upstream pull requests will be proposed after this fork has been locally tested on Foundry V14.
+The upstream Foundry V14 compatibility pull request is open at [Cardagon/popout-resizer#23](https://github.com/Cardagon/popout-resizer/pull/23).
 
 ## Credits
 
