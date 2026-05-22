@@ -56,3 +56,9 @@ Upstream pull requests will be proposed after this fork has been locally tested 
 Popout Resizer was created by Cardagon. This fork credits iconmaster5326 for the prior V13 sidebar popout work in PR [#22](https://github.com/Cardagon/popout-resizer/pull/22), which informed the V14 compatibility update here.
 
 This compatibility fork preserves the original module id, repository history, and attribution.
+
+## Support
+
+If this compatibility fork helped your Foundry V14 workflow, optional support for Spencer's compatibility testing, release packaging, and documentation work is welcome: [paypal.me/mrpooley92](https://paypal.me/mrpooley92).
+
+The upstream author, contributor credit, project history, and attribution remain preserved above.
