@@ -57,8 +57,8 @@ Popout Resizer was created by Cardagon. This fork credits iconmaster5326 for the
 
 This compatibility fork preserves the original module id, repository history, and attribution.
 
-## Support
+## Donate
 
-If this compatibility fork helped your Foundry V14 workflow, optional support for Spencer's compatibility testing, release packaging, and documentation work is welcome: [paypal.me/mrpooley92](https://paypal.me/mrpooley92).
+If this compatibility fork helped your Foundry V14 workflow, you can donate to support Spencer's compatibility testing, release packaging, and documentation work through [GitHub Sponsors](https://github.com/sponsors/SpencerZPoole) or [PayPal](https://paypal.me/mrpooley92). GitHub Sponsors is best for recurring sponsorships; PayPal works well for one-time donations.
 
 The upstream author, contributor credit, project history, and attribution remain preserved above.
