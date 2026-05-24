@@ -4,6 +4,10 @@ Popout Resizer lets you resize Foundry VTT sidebar popout windows, including com
 
 This fork is a Foundry V14 compatibility release of Cardagon's original Popout Resizer module.
 
+**Support:** If this compatibility fork helps your Foundry V14 workflow, donations are optional and support Spencer's compatibility testing, release packaging, and documentation. Upstream author and contributor credit remains below.
+
+[![Sponsor on GitHub](https://img.shields.io/badge/GitHub%20Sponsors-Donate-ea4aaa?style=flat&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/SpencerZPoole) [![Donate with PayPal](https://img.shields.io/badge/PayPal-One--time%20donation-00457C?style=flat&logo=paypal&logoColor=white)](https://paypal.me/mrpooley92)
+
 ## Install
 
 Install this fork from Foundry's **Add-on Modules** screen with this manifest URL:
@@ -49,19 +53,10 @@ This fork is intended to keep the original module behavior while making sidebar 
 - Fixed saved-size setting updates so stored dimensions remain an object.
 - Published release assets for direct installation from this public fork.
 
-The upstream Foundry V14 compatibility pull request is open at [Cardagon/popout-resizer#23](https://github.com/Cardagon/popout-resizer/pull/23).
+The upstream Foundry V14 compatibility pull request was merged in [Cardagon/popout-resizer#23](https://github.com/Cardagon/popout-resizer/pull/23), and upstream published `1.6.1` after the merge.
 
 ## Credits
 
 Popout Resizer was created by Cardagon. This fork credits iconmaster5326 for the prior V13 sidebar popout work in PR [#22](https://github.com/Cardagon/popout-resizer/pull/22), which informed the V14 compatibility update here.
 
 This compatibility fork preserves the original module id, repository history, and attribution.
-
-## Donate
-
-If this compatibility fork helped your Foundry V14 workflow, donations are welcome to support Spencer's compatibility testing, release packaging, and documentation work. GitHub Sponsors is best for recurring sponsorships; PayPal works well for one-time donations.
-
-[![Sponsor on GitHub](https://img.shields.io/badge/GitHub%20Sponsors-Donate-ea4aaa?style=flat&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/SpencerZPoole)
-[![Donate with PayPal](https://img.shields.io/badge/PayPal-One--time%20donation-00457C?style=flat&logo=paypal&logoColor=white)](https://paypal.me/mrpooley92)
-
-The upstream author, contributor credit, project history, and attribution remain preserved above.
